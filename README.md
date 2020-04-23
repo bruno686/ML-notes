@@ -10,7 +10,7 @@ notes about machine learning
 
 #### pages
 
-you can visit my github repository: [](https://github.com/bruno-thundergod/ML-notes)
+you can visit my github repository: [https://github.com/bruno-thundergod/ML-notes](https://github.com/bruno-thundergod/ML-notes)
 
 #### html链接
 
