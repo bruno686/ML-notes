@@ -16,5 +16,7 @@ you can visit my github repository: [https://github.com/bruno686/ML-notes](https
 
 #### html链接
 
-[normlization](https://bruno-thundergod.github.io/ML-notes/ML-notes-html/normalization.html)
+[normalization](https://bruno686.github.io/ML-notes/normalization.html)
+
+
 
